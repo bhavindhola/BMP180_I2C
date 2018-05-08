@@ -1,0 +1,14 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+arg1 = $(1)
+export PATH=C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3\bin\;C:\Renesas\e2_studio\eclipse\..\Utilities;C:/Renesas/e2_studio/eclipse//features/com.renesas.jre.win32.win32.x86_1.8.0.65/jre/bin/client;C:/Renesas/e2_studio/eclipse//features/com.renesas.jre.win32.win32.x86_1.8.0.65/jre/bin;C:/Renesas/e2_studio/eclipse//features/com.renesas.jre.win32.win32.x86_1.8.0.65/jre/lib/i386;C:\Perl64\site\bin;C:\Perl64\bin;C:\Go\bin;C:\MinGW\libexec\gcc\x86_64-w64-mingw32\7.2.0;C:\Program Files\Java\jdk-9.0.4\bin;C:\Program Files (x86)\GCC for Renesas RL78 4.9.2.201703-GNURL78-ELF\rl78-elf\rl78-elf\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\CooCox\CoIDE_V2Beta\bin;C:\CooCox\CoIDE_V2Beta\gcc\bin;C:\CooCox\CoIDE\gcc\bin;C:\Program Files (x86)\Renesas\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Subversion\bin;C:\Program Files\TortoiseSVN\bin;C:\Go\bin;C:\Users\MJamil\AppData\Local\Microsoft\WindowsApps;C:\uniSKETCH\Libraries;C:\GoCode\bin;C:\Renesas\e2_studio\eclipse
+export TCINSTALL=C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3$(call arg1,\)
+export CWD=$(CURDIR)
+export AMS_LICENSE_PATH=C:\Renesas\e2_studio\internal\projectgen\arm\Licenses\SSP_License_Example_EvalLicense_20160205.xml
+export SECURE_BUILD_COMMAND=C:\Renesas\e2_studio\eclipse\../Utilities/isdebuild
+export TC_VERSION=4.9.3.20150529
+export AMS_KEEP_FILE=false
+export PWD=$(CURDIR)
+export GCC_VERSION=4.9.3
