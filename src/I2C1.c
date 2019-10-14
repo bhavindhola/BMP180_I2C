@@ -1,5 +1,5 @@
 #include "hal_data.h"
-
+#only for testing purpose
 #include <stdbool.h>
 #include "I2C1.h"
 
